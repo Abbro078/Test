@@ -101,7 +101,9 @@ public class Main
             return removedItem;
         }
     }
-
+//123123123123123123123213123123123
+    //i love dicks
+    //1238912890312938asdsaddasads
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         String[] line = in.readLine().split("\\s+");
@@ -123,5 +125,5 @@ public class Main
             System.out.println(sb);
         }
     }
-
+//12378t612oghij312oghi3123hjkb123ghiko123hijkbg123klghu123lghiju123oghiu
 }
